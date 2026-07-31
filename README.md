@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NItin-36703/My_Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/NItin-36703/My_Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NItin-36703/My_Leetcode/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/NItin-36703/My_Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/NItin-36703/My_Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NItin-36703/My_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/NItin-36703/My_Leetcode/tree/master/0403-frog-jump) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NItin-36703/My_Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/NItin-36703/My_Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/NItin-36703/My_Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NItin-36703/My_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/NItin-36703/My_Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/NItin-36703/My_Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/NItin-36703/My_Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/NItin-36703/My_Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NItin-36703/My_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NItin-36703/My_Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/NItin-36703/My_Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/NItin-36703/My_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2404-most-frequent-even-element](https://github.com/NItin-36703/My_Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Quickselect
