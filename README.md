@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/NItin-36703/My_Leetcode/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/NItin-36703/My_Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/NItin-36703/My_Leetcode/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NItin-36703/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/NItin-36703/My_Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/NItin-36703/My_Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NItin-36703/My_Leetcode/tree/master/0213-house-robber-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/NItin-36703/My_Leetcode/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NItin-36703/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/NItin-36703/My_Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NItin-36703/My_Leetcode/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/NItin-36703/My_Leetcode/tree/master/0403-frog-jump) |
