@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NItin-36703/My_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/NItin-36703/My_Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NItin-36703/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/NItin-36703/My_Leetcode/tree/master/0198-house-robber) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NItin-36703/My_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/NItin-36703/My_Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NItin-36703/My_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/NItin-36703/My_Leetcode/tree/master/0283-move-zeroes) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NItin-36703/My_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/NItin-36703/My_Leetcode/tree/master/0242-valid-anagram) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/NItin-36703/My_Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Queue
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NItin-36703/My_Leetcode/tree/master/0239-sliding-window-maximum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/NItin-36703/My_Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
