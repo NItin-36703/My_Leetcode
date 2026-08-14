@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NItin-36703/My_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/NItin-36703/My_Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/NItin-36703/My_Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/NItin-36703/My_Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/NItin-36703/My_Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/NItin-36703/My_Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NItin-36703/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NItin-36703/My_Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/NItin-36703/My_Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/NItin-36703/My_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NItin-36703/My_Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NItin-36703/My_Leetcode/tree/master/0242-valid-anagram) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NItin-36703/My_Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/NItin-36703/My_Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/NItin-36703/My_Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/NItin-36703/My_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NItin-36703/My_Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NItin-36703/My_Leetcode/tree/master/0242-valid-anagram) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NItin-36703/My_Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/NItin-36703/My_Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/NItin-36703/My_Leetcode/tree/master/0242-valid-anagram) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/NItin-36703/My_Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Queue
