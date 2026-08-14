@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NItin-36703/My_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2404-most-frequent-even-element](https://github.com/NItin-36703/My_Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NItin-36703/My_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/NItin-36703/My_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NItin-36703/My_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/NItin-36703/My_Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NItin-36703/My_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/NItin-36703/My_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Minimax
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NItin-36703/My_Leetcode/tree/master/0242-valid-anagram) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/NItin-36703/My_Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NItin-36703/My_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/NItin-36703/My_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Queue
 |  |
 | ------- |
