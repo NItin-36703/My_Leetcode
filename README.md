@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/NItin-36703/My_Leetcode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NItin-36703/My_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NItin-36703/My_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NItin-36703/My_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2404-most-frequent-even-element](https://github.com/NItin-36703/My_Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NItin-36703/My_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/NItin-36703/My_Leetcode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NItin-36703/My_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NItin-36703/My_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NItin-36703/My_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3536-maximum-product-of-two-digits](https://github.com/NItin-36703/My_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Brainteaser
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/NItin-36703/My_Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/NItin-36703/My_Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NItin-36703/My_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NItin-36703/My_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
