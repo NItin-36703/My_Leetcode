@@ -7,7 +7,7 @@ public:
         copy[i] = arr[i];
     } 
     sort(copy.begin(),copy.end());
-    map<int,int>mp;
+    unordered_map<int,int>mp;
    int rank = 1;
 
 for (int i=0;i<n;i++){
