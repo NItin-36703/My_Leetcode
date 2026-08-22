@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/NItin-36703/My_Leetcode/tree/master/1025-divisor-game) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/NItin-36703/My_Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/NItin-36703/My_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NItin-36703/My_Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
 |  |
 | ------- |
