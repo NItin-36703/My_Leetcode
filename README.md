@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/NItin-36703/My_Leetcode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/NItin-36703/My_Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/NItin-36703/My_Leetcode/tree/master/0877-stone-game) |
+| [1046-last-stone-weight](https://github.com/NItin-36703/My_Leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/NItin-36703/My_Leetcode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NItin-36703/My_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NItin-36703/My_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/NItin-36703/My_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/NItin-36703/My_Leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/NItin-36703/My_Leetcode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
