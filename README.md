@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NItin-36703/My_Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/NItin-36703/My_Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NItin-36703/My_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/NItin-36703/My_Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2073-time-needed-to-buy-tickets](https://github.com/NItin-36703/My_Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NItin-36703/My_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/NItin-36703/My_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/NItin-36703/My_Leetcode/tree/master/0055-jump-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NItin-36703/My_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/NItin-36703/My_Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NItin-36703/My_Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/NItin-36703/My_Leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/NItin-36703/My_Leetcode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/NItin-36703/My_Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/NItin-36703/My_Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Simulation
 |  |
