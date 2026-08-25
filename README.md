@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/NItin-36703/My_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/NItin-36703/My_Leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/NItin-36703/My_Leetcode/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/NItin-36703/My_Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/NItin-36703/My_Leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/NItin-36703/My_Leetcode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/NItin-36703/My_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/NItin-36703/My_Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/NItin-36703/My_Leetcode/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/NItin-36703/My_Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/NItin-36703/My_Leetcode/tree/master/1025-divisor-game) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/NItin-36703/My_Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/NItin-36703/My_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/NItin-36703/My_Leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/NItin-36703/My_Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/NItin-36703/My_Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/NItin-36703/My_Leetcode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NItin-36703/My_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/NItin-36703/My_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NItin-36703/My_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/NItin-36703/My_Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/NItin-36703/My_Leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/NItin-36703/My_Leetcode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NItin-36703/My_Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NItin-36703/My_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/NItin-36703/My_Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -212,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NItin-36703/My_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/NItin-36703/My_Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -327,4 +333,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/NItin-36703/My_Leetcode/tree/master/0692-top-k-frequent-words) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/NItin-36703/My_Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/NItin-36703/My_Leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
