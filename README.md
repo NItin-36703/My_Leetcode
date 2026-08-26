@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NItin-36703/My_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/NItin-36703/My_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NItin-36703/My_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/NItin-36703/My_Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2404-most-frequent-even-element](https://github.com/NItin-36703/My_Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NItin-36703/My_Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/NItin-36703/My_Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/NItin-36703/My_Leetcode/tree/master/0055-jump-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NItin-36703/My_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/NItin-36703/My_Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/NItin-36703/My_Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NItin-36703/My_Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/NItin-36703/My_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NItin-36703/My_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NItin-36703/My_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/NItin-36703/My_Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NItin-36703/My_Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3536-maximum-product-of-two-digits](https://github.com/NItin-36703/My_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Brainteaser
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/NItin-36703/My_Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NItin-36703/My_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/NItin-36703/My_Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/NItin-36703/My_Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Simulation
 |  |
