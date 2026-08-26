@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/NItin-36703/My_Leetcode/tree/master/0403-frog-jump) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0506-relative-ranks](https://github.com/NItin-36703/My_Leetcode/tree/master/0506-relative-ranks) |
 | [0636-exclusive-time-of-functions](https://github.com/NItin-36703/My_Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/NItin-36703/My_Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/NItin-36703/My_Leetcode/tree/master/0645-set-mismatch) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/NItin-36703/My_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/NItin-36703/My_Leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/NItin-36703/My_Leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/NItin-36703/My_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/NItin-36703/My_Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NItin-36703/My_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/NItin-36703/My_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/NItin-36703/My_Leetcode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/NItin-36703/My_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NItin-36703/My_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/NItin-36703/My_Leetcode/tree/master/0973-k-closest-points-to-origin) |
