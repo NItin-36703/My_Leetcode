@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/NItin-36703/My_Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NItin-36703/My_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NItin-36703/My_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/NItin-36703/My_Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NItin-36703/My_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/NItin-36703/My_Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/NItin-36703/My_Leetcode/tree/master/1025-divisor-game) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/NItin-36703/My_Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/NItin-36703/My_Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/NItin-36703/My_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NItin-36703/My_Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/NItin-36703/My_Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NItin-36703/My_Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/NItin-36703/My_Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/NItin-36703/My_Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NItin-36703/My_Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/NItin-36703/My_Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NItin-36703/My_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/NItin-36703/My_Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
