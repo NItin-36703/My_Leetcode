@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NItin-36703/My_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NItin-36703/My_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/NItin-36703/My_Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/NItin-36703/My_Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NItin-36703/My_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/NItin-36703/My_Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/NItin-36703/My_Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/NItin-36703/My_Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/NItin-36703/My_Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Simulation
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/NItin-36703/My_Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NItin-36703/My_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NItin-36703/My_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/NItin-36703/My_Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NItin-36703/My_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/NItin-36703/My_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NItin-36703/My_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NItin-36703/My_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/NItin-36703/My_Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Minimax
 |  |
 | ------- |
