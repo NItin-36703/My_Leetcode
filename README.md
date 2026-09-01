@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NItin-36703/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/NItin-36703/My_Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NItin-36703/My_Leetcode/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/NItin-36703/My_Leetcode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/NItin-36703/My_Leetcode/tree/master/0403-frog-jump) |
 | [0647-palindromic-substrings](https://github.com/NItin-36703/My_Leetcode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/NItin-36703/My_Leetcode/tree/master/0877-stone-game) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/NItin-36703/My_Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NItin-36703/My_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/NItin-36703/My_Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/NItin-36703/My_Leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/NItin-36703/My_Leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/NItin-36703/My_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NItin-36703/My_Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/NItin-36703/My_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NItin-36703/My_Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/NItin-36703/My_Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/NItin-36703/My_Leetcode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/NItin-36703/My_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/NItin-36703/My_Leetcode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/NItin-36703/My_Leetcode/tree/master/0692-top-k-frequent-words) |
