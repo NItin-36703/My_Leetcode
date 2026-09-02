@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/NItin-36703/My_Leetcode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/NItin-36703/My_Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NItin-36703/My_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/NItin-36703/My_Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/NItin-36703/My_Leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/NItin-36703/My_Leetcode/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/NItin-36703/My_Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/NItin-36703/My_Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NItin-36703/My_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
