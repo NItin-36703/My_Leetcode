@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/NItin-36703/My_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NItin-36703/My_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -400,11 +401,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NItin-36703/My_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/NItin-36703/My_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NItin-36703/My_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -446,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/NItin-36703/My_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
