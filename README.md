@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/NItin-36703/My_Leetcode/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/NItin-36703/My_Leetcode/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/NItin-36703/My_Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/NItin-36703/My_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NItin-36703/My_Leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/NItin-36703/My_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/NItin-36703/My_Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/NItin-36703/My_Leetcode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/NItin-36703/My_Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/NItin-36703/My_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0257-binary-tree-paths](https://github.com/NItin-36703/My_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NItin-36703/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NItin-36703/My_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/NItin-36703/My_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0257-binary-tree-paths](https://github.com/NItin-36703/My_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NItin-36703/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NItin-36703/My_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/NItin-36703/My_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NItin-36703/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
