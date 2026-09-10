@@ -11,19 +11,56 @@
  */
 class Solution {
 public:
-void count(TreeNode* root,vector<int>& ans){
+void inorder(TreeNode* root,vector<int>& ans){
     if (root == NULL)return;
 
+    
+    inorder(root->left ,ans);
     ans.push_back(root->val);
-    count (root->left ,ans);
-    count (root->right ,ans);
+   inorder (root->right ,ans);
 }
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
-        vector<int>ans;
-        count (root1,ans);
-        count (root2,ans );
+        vector<int>ans1;
+        vector<int> ans2;
+        inorder (root1,ans1);
+        inorder (root2,ans2);
+  int s1=0;
+  int s2=0;
+  vector<int>answer;
+        while (s1<ans1.size()  && s2< ans2.size()){
+            if (ans1[s1] < ans2[s2]){
+                answer.push_back(ans1[s1]);
+                s1++;
+            }
+           else if (ans1[s1] > ans2[s2]){
+                answer.push_back(ans2[s2]);
+                s2++;
+            }
 
-     sort (ans.begin(),ans.end());
-     return ans;
+            else {
+                answer.push_back(ans1[s1]);
+                answer.push_back(ans2[s2]);
+                s1++;
+                s2++;
+
+            }
+
+        }
+        
+            while(s2< ans2.size()){
+                answer.push_back(ans2[s2]);
+                s2++;
+            }
+        
+
+         
+            while(s1< ans1.size()){
+                answer.push_back(ans1[s1]);
+                s1++;
+            
+        }
+   
+    
+     return answer;
     }
 };
