@@ -11,27 +11,24 @@
  */
 class Solution {
 public:
-int count = 0;
-int sum(TreeNode* root,int& ans,int& nodes){
-    if (root == NULL) return 0;
 
-    ans+= root->val;
-   nodes++;
+pair<int,int> sum(TreeNode* root,int& count){
+    if (root == NULL) return {0,0};
 
-    sum(root->left,ans,nodes);
-    sum(root->right,ans,nodes);
+   auto [leftsum, Lnodes]=  sum(root->left ,count);
+    auto [rightsum,Rnodes] =sum(root->right,count );
+      
+      int sum_at_node = leftsum + rightsum +root->val;
 
-    return floor(ans/nodes);
+      int total_nodes = Lnodes + Rnodes+1;
+
+      if (sum_at_node/total_nodes == root->val)count++;
+
+      return {sum_at_node, total_nodes};
+    
 }
     int averageOfSubtree(TreeNode* root) {
-         if (root == NULL) return 0;
-         int ans=0;
-         int nodes= 0;
-         if (root->val  == sum(root,ans,nodes)){
-            count++;
-         }
-        averageOfSubtree(root->left);
-        averageOfSubtree(root->right);
-
+        int count = 0;
+ sum (root,count);
    return count; }
 };
