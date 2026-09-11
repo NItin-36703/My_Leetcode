@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/NItin-36703/My_Leetcode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/NItin-36703/My_Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/NItin-36703/My_Leetcode/tree/master/1025-divisor-game) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NItin-36703/My_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/NItin-36703/My_Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NItin-36703/My_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Design
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NItin-36703/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NItin-36703/My_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/NItin-36703/My_Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NItin-36703/My_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/NItin-36703/My_Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NItin-36703/My_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Data Stream
@@ -496,12 +500,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NItin-36703/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/NItin-36703/My_Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NItin-36703/My_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
