@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NItin-36703/My_Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NItin-36703/My_Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/NItin-36703/My_Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3536-maximum-product-of-two-digits](https://github.com/NItin-36703/My_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Brainteaser
 |  |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NItin-36703/My_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NItin-36703/My_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NItin-36703/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
