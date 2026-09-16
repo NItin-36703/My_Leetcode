@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/NItin-36703/My_Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/NItin-36703/My_Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NItin-36703/My_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/NItin-36703/My_Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/NItin-36703/My_Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NItin-36703/My_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/NItin-36703/My_Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/NItin-36703/My_Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NItin-36703/My_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
