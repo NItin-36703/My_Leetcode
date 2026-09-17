@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/NItin-36703/My_Leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/NItin-36703/My_Leetcode/tree/master/0257-binary-tree-paths) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/NItin-36703/My_Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Matrix
 |  |
 | ------- |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/NItin-36703/My_Leetcode/tree/master/0482-license-key-formatting) |
 | [0647-palindromic-substrings](https://github.com/NItin-36703/My_Leetcode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/NItin-36703/My_Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/NItin-36703/My_Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/NItin-36703/My_Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NItin-36703/My_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2278-percentage-of-letter-in-string](https://github.com/NItin-36703/My_Leetcode/tree/master/2278-percentage-of-letter-in-string) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/NItin-36703/My_Leetcode/tree/master/0687-longest-univalue-path) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NItin-36703/My_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/NItin-36703/My_Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/NItin-36703/My_Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/NItin-36703/My_Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/NItin-36703/My_Leetcode/tree/master/0687-longest-univalue-path) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NItin-36703/My_Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/NItin-36703/My_Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/NItin-36703/My_Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/NItin-36703/My_Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/NItin-36703/My_Leetcode/tree/master/0687-longest-univalue-path) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/NItin-36703/My_Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/NItin-36703/My_Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/NItin-36703/My_Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
