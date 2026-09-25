@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/NItin-36703/My_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/NItin-36703/My_Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/NItin-36703/My_Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/NItin-36703/My_Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/NItin-36703/My_Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/NItin-36703/My_Leetcode/tree/master/0229-majority-element-ii) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/NItin-36703/My_Leetcode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/NItin-36703/My_Leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/NItin-36703/My_Leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/NItin-36703/My_Leetcode/tree/master/0733-flood-fill) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/NItin-36703/My_Leetcode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/NItin-36703/My_Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/NItin-36703/My_Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/NItin-36703/My_Leetcode/tree/master/0207-course-schedule) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/NItin-36703/My_Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0463-island-perimeter](https://github.com/NItin-36703/My_Leetcode/tree/master/0463-island-perimeter) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/NItin-36703/My_Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/NItin-36703/My_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/NItin-36703/My_Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/NItin-36703/My_Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/NItin-36703/My_Leetcode/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/NItin-36703/My_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/NItin-36703/My_Leetcode/tree/master/0463-island-perimeter) |
@@ -606,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/NItin-36703/My_Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/NItin-36703/My_Leetcode/tree/master/0547-number-of-provinces) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/NItin-36703/My_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Topological Sort
