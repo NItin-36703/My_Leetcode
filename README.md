@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/NItin-36703/My_Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/NItin-36703/My_Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/NItin-36703/My_Leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/NItin-36703/My_Leetcode/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/NItin-36703/My_Leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/NItin-36703/My_Leetcode/tree/master/1094-car-pooling) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/NItin-36703/My_Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/NItin-36703/My_Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NItin-36703/My_Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/NItin-36703/My_Leetcode/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/NItin-36703/My_Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/NItin-36703/My_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/NItin-36703/My_Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NItin-36703/My_Leetcode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/NItin-36703/My_Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0994-rotting-oranges](https://github.com/NItin-36703/My_Leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/NItin-36703/My_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
