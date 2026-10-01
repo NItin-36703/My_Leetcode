@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/NItin-36703/My_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NItin-36703/My_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/NItin-36703/My_Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/NItin-36703/My_Leetcode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/NItin-36703/My_Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/NItin-36703/My_Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/NItin-36703/My_Leetcode/tree/master/1025-divisor-game) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/NItin-36703/My_Leetcode/tree/master/0412-fizz-buzz) |
 | [1094-car-pooling](https://github.com/NItin-36703/My_Leetcode/tree/master/1094-car-pooling) |
 | [1441-build-an-array-with-stack-operations](https://github.com/NItin-36703/My_Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/NItin-36703/My_Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/NItin-36703/My_Leetcode/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/NItin-36703/My_Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/NItin-36703/My_Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/NItin-36703/My_Leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/NItin-36703/My_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/NItin-36703/My_Leetcode/tree/master/0482-license-key-formatting) |
 | [0647-palindromic-substrings](https://github.com/NItin-36703/My_Leetcode/tree/master/0647-palindromic-substrings) |
