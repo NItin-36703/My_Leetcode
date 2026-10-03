@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/NItin-36703/My_Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NItin-36703/My_Leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/NItin-36703/My_Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/NItin-36703/My_Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/NItin-36703/My_Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/NItin-36703/My_Leetcode/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/NItin-36703/My_Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NItin-36703/My_Leetcode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/NItin-36703/My_Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/NItin-36703/My_Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/NItin-36703/My_Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/NItin-36703/My_Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/NItin-36703/My_Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/NItin-36703/My_Leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/NItin-36703/My_Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/NItin-36703/My_Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/NItin-36703/My_Leetcode/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/NItin-36703/My_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/NItin-36703/My_Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/NItin-36703/My_Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/NItin-36703/My_Leetcode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/NItin-36703/My_Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/NItin-36703/My_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
@@ -643,4 +647,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/NItin-36703/My_Leetcode/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/NItin-36703/My_Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/NItin-36703/My_Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/NItin-36703/My_Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
