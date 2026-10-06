@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NItin-36703/My_Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/NItin-36703/My_Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/NItin-36703/My_Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/NItin-36703/My_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2951-find-the-peaks](https://github.com/NItin-36703/My_Leetcode/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NItin-36703/My_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/NItin-36703/My_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/NItin-36703/My_Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/NItin-36703/My_Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/NItin-36703/My_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/NItin-36703/My_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/NItin-36703/My_Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/NItin-36703/My_Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/NItin-36703/My_Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/NItin-36703/My_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/NItin-36703/My_Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NItin-36703/My_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/NItin-36703/My_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## DP on Trees
 |  |
 | ------- |
@@ -647,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/NItin-36703/My_Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/NItin-36703/My_Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/NItin-36703/My_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/NItin-36703/My_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
