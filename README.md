@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NItin-36703/My_Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/NItin-36703/My_Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NItin-36703/My_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1905-count-sub-islands](https://github.com/NItin-36703/My_Leetcode/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/NItin-36703/My_Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/NItin-36703/My_Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2073-time-needed-to-buy-tickets](https://github.com/NItin-36703/My_Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/NItin-36703/My_Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1905-count-sub-islands](https://github.com/NItin-36703/My_Leetcode/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/NItin-36703/My_Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/NItin-36703/My_Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/NItin-36703/My_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/NItin-36703/My_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/NItin-36703/My_Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1905-count-sub-islands](https://github.com/NItin-36703/My_Leetcode/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/NItin-36703/My_Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/NItin-36703/My_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/NItin-36703/My_Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/NItin-36703/My_Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1905-count-sub-islands](https://github.com/NItin-36703/My_Leetcode/tree/master/1905-count-sub-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NItin-36703/My_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/NItin-36703/My_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -655,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/NItin-36703/My_Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/NItin-36703/My_Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/NItin-36703/My_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1905-count-sub-islands](https://github.com/NItin-36703/My_Leetcode/tree/master/1905-count-sub-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/NItin-36703/My_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NItin-36703/My_Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Topological Sort
