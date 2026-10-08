@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/NItin-36703/My_Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/NItin-36703/My_Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/NItin-36703/My_Leetcode/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/NItin-36703/My_Leetcode/tree/master/0310-minimum-height-trees) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/NItin-36703/My_Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0463-island-perimeter](https://github.com/NItin-36703/My_Leetcode/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/NItin-36703/My_Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/NItin-36703/My_Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/NItin-36703/My_Leetcode/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/NItin-36703/My_Leetcode/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/NItin-36703/My_Leetcode/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/NItin-36703/My_Leetcode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/NItin-36703/My_Leetcode/tree/master/0508-most-frequent-subtree-sum) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/NItin-36703/My_Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/NItin-36703/My_Leetcode/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/NItin-36703/My_Leetcode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/NItin-36703/My_Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/NItin-36703/My_Leetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/NItin-36703/My_Leetcode/tree/master/0785-is-graph-bipartite) |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/NItin-36703/My_Leetcode/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/NItin-36703/My_Leetcode/tree/master/0310-minimum-height-trees) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
