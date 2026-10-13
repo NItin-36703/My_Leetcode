@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/NItin-36703/My_Leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/NItin-36703/My_Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/0912-sort-an-array) |
+| [0934-shortest-bridge](https://github.com/NItin-36703/My_Leetcode/tree/master/0934-shortest-bridge) |
 | [0973-k-closest-points-to-origin](https://github.com/NItin-36703/My_Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/NItin-36703/My_Leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/NItin-36703/My_Leetcode/tree/master/0997-find-the-town-judge) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/NItin-36703/My_Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/NItin-36703/My_Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NItin-36703/My_Leetcode/tree/master/0733-flood-fill) |
+| [0934-shortest-bridge](https://github.com/NItin-36703/My_Leetcode/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/NItin-36703/My_Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/NItin-36703/My_Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/NItin-36703/My_Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/NItin-36703/My_Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0934-shortest-bridge](https://github.com/NItin-36703/My_Leetcode/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/NItin-36703/My_Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/NItin-36703/My_Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/NItin-36703/My_Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/NItin-36703/My_Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0934-shortest-bridge](https://github.com/NItin-36703/My_Leetcode/tree/master/0934-shortest-bridge) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/NItin-36703/My_Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NItin-36703/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
