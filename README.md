@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/NItin-36703/My_Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NItin-36703/My_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/NItin-36703/My_Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NItin-36703/My_Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/NItin-36703/My_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NItin-36703/My_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NItin-36703/My_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/NItin-36703/My_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NItin-36703/My_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/NItin-36703/My_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/NItin-36703/My_Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/NItin-36703/My_Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/NItin-36703/My_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/NItin-36703/My_Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Quickselect
