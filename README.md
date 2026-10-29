@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/NItin-36703/My_Leetcode/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/NItin-36703/My_Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/NItin-36703/My_Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NItin-36703/My_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2073-time-needed-to-buy-tickets](https://github.com/NItin-36703/My_Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NItin-36703/My_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NItin-36703/My_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/NItin-36703/My_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/NItin-36703/My_Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NItin-36703/My_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NItin-36703/My_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/NItin-36703/My_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NItin-36703/My_Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/NItin-36703/My_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/NItin-36703/My_Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NItin-36703/My_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/NItin-36703/My_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/NItin-36703/My_Leetcode/tree/master/2404-most-frequent-even-element) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/NItin-36703/My_Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
