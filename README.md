@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/NItin-36703/My_Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/NItin-36703/My_Leetcode/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/NItin-36703/My_Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/NItin-36703/My_Leetcode/tree/master/1518-water-bottles) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/NItin-36703/My_Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/NItin-36703/My_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/NItin-36703/My_Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/NItin-36703/My_Leetcode/tree/master/0412-fizz-buzz) |
 | [1094-car-pooling](https://github.com/NItin-36703/My_Leetcode/tree/master/1094-car-pooling) |
 | [1441-build-an-array-with-stack-operations](https://github.com/NItin-36703/My_Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1518-water-bottles](https://github.com/NItin-36703/My_Leetcode/tree/master/1518-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/NItin-36703/My_Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/NItin-36703/My_Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NItin-36703/My_Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
