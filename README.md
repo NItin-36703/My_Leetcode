@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/NItin-36703/My_Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NItin-36703/My_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NItin-36703/My_Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/NItin-36703/My_Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NItin-36703/My_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NItin-36703/My_Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NItin-36703/My_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NItin-36703/My_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/NItin-36703/My_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0888-fair-candy-swap](https://github.com/NItin-36703/My_Leetcode/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/NItin-36703/My_Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NItin-36703/My_Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NItin-36703/My_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NItin-36703/My_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/NItin-36703/My_Leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/NItin-36703/My_Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/NItin-36703/My_Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/NItin-36703/My_Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/NItin-36703/My_Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sliding Window
 |  |
