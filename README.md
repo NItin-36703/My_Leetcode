@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/NItin-36703/My_Leetcode/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/NItin-36703/My_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/NItin-36703/My_Leetcode/tree/master/1518-water-bottles) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/NItin-36703/My_Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/NItin-36703/My_Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/NItin-36703/My_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3100-water-bottles-ii](https://github.com/NItin-36703/My_Leetcode/tree/master/3100-water-bottles-ii) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NItin-36703/My_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/NItin-36703/My_Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/NItin-36703/My_Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/NItin-36703/My_Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NItin-36703/My_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/NItin-36703/My_Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/NItin-36703/My_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NItin-36703/My_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/NItin-36703/My_Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/NItin-36703/My_Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/NItin-36703/My_Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NItin-36703/My_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/NItin-36703/My_Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
